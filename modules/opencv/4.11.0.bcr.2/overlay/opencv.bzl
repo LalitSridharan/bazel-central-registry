@@ -35,6 +35,7 @@ CONFIG = {
         "flann", # lacks
         "imgcodecs",
         "imgproc",
+	"highgui",
     ],
     "stub_opencl": [
         "core",
@@ -47,6 +48,7 @@ CONFIG = {
         "imgcodecs",
         "features2d",
         "calib3d",
+	"highgui",
     ]
 }
 
